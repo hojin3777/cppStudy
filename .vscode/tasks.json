@@ -61,7 +61,7 @@
             "group": "test",
             "args": [
                 "/C",
-                "${fileDirname}\\${fileBasenameNoExtension}"
+                "${fileDirname}\\run\\${fileBasenameNoExtension}"
             ]
         },
         {
