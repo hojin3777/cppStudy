@@ -2,7 +2,7 @@
 
 int calcConstant(){
     int foo = 0;
-    std::cout << "ì´ˆê¸°ê°’ì„ ìž…ë ¥í•˜ì‹œê¸° ë°”ëžë‹ˆë‹¤.";
+    std::cout << "ÃÊ±â°ªÀ» ÀÔ·ÂÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.";
     std::cin >> foo;
     return foo;
 }
